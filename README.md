@@ -2,6 +2,8 @@
 
 🔗 **Live App:** https://customer-churn-rfm-analysis-6nwmjchz9aedyzvafis2zw.streamlit.app/
 
+📄 **SQL Queries:** [queries.sql](./queries.sql)
+
 ## Problem
 An online UK-based retailer needed to identify which customers were at risk of 
 churning, and segment its customer base to prioritize retention efforts.
